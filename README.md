@@ -12,6 +12,7 @@
 * [Weather Underground Web Client](https://gist.github.com/acturcato/8352621#file-act_weather-ino-L104)
 * [Arduino binary clock project](http://www.instructables.com/id/Arduino-Binary-clock-using-LED-Matrix/?ALLSTEPS)
 * [Raspberry Pi main site](https://www.raspberrypi.org)
+* [Raspberry Pi GPIO blink](http://www.instructables.com/id/Raspberry-Pi-Python-scripting-the-GPIO/step6/Blink-an-LED-in-Python/)
 * [Raspberry Pi motion camera server](https://www.maketecheasier.com/setup-motion-detection-webcam-ubuntu/)
 * [Raspberry Pi motion camera server 2](https://pimylifeup.com/raspberry-pi-webcam-server/)
 * [simple GPIO over network w/ webpage](http://davstott.me.uk/index.php/2013/03/17/raspberry-pi-controlling-gpio-from-the-web/)
